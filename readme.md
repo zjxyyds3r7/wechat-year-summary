@@ -22,7 +22,7 @@
 
 每日消息分布
 
-![榜单](images\榜单.jpg)
+![榜单](images/榜单.jpg)
 
 榜单统计
 
@@ -36,7 +36,7 @@
 
 教程： [Deploy | MemoTrace](https://memotrace.cn/doc/posts/deploy/)
 
-![展示导出](images\展示导出.jpg)
+![展示导出](images/展示导出.jpg)
 按流程获取信息后，最后点击`数据`->`导出聊天记录（全部）`->`CSV`导出
 
 #### 2. 聊天记录的处理
